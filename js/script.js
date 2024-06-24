@@ -5,7 +5,7 @@ let lastName = prompt("Qual è il tuo cognome?");
 
 let favoriteColor = prompt("Qual è il tuo colore preferito?");
 
-let result = firstName + lastName + favoriteColor + "23";
+let password = firstName + lastName + favoriteColor + "23";
 
-document.getElementById("result").textContent = result;
+document.getElementById("result").innerHTML = password;
 
