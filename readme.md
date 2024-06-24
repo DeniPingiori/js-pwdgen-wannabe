@@ -13,4 +13,6 @@ start es:
         NEL FILE JS:
         - chiedere all'utente il suo nome;  
         - chiedere il suo cognome; 
+        - qual è il suom colore preferito;
+
 
