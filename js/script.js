@@ -3,4 +3,7 @@ let firstName = prompt("Qual è il tuo nome?");
 
 let lastName = prompt("Qual è il tuo cognome?");
 
-let favoriteColor = prompt("Qual è il tuo colore preferito?");
+let favoriteColor = prompt("Qual è il tuo colore preferito?+23");
+
+let result = firstName + lastName + favoriteColor + "23";
+

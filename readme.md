@@ -14,5 +14,7 @@ start es:
         - chiedere all'utente il suo nome;  
         - chiedere il suo cognome; 
         - qual è il suom colore preferito;
+        - chiedi nome, cognome e colorore preferito
+            - fallo uscire sulla pagina. 
 
 
