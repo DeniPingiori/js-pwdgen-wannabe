@@ -8,3 +8,9 @@ Bonus: se volete potete dare uno stile alla pagina.
 Buon lavoro!
 
 start es: 
+ creare file htlm, readme e js
+    scrivere il collegamento sull'index per farlo collegare al file js
+        NEL FILE JS:
+        - chiedere all'utente il suo nome;  
+        - chiedere il suo cognome; 
+
