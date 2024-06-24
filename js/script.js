@@ -3,7 +3,9 @@ let firstName = prompt("Qual è il tuo nome?");
 
 let lastName = prompt("Qual è il tuo cognome?");
 
-let favoriteColor = prompt("Qual è il tuo colore preferito?+23");
+let favoriteColor = prompt("Qual è il tuo colore preferito?");
 
 let result = firstName + lastName + favoriteColor + "23";
+
+document.getElementById("result").textContent = result;
 
